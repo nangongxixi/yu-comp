@@ -1,11 +1,11 @@
 {
-   "name": "nangongxixi/yu-comp",
-    "description": "8888999e upload",
+    "name": "nangongxixi/yu-comp",
+    "description": "file de22 upload",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Liuyu",
+            "name": "liuyu",
             "email": "373966902@qq.com"
         }
     ],
@@ -14,8 +14,8 @@
     },
     "autoload": {
         "psr-4":{
-            "Dj\\":"src"
+            "Ly\\":"src/helloword"
         }
     }
 }
- 
+   
