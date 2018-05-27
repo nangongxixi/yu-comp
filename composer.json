@@ -1,24 +1,21 @@
 {
-    "name": "nangongxixi/yu-comp",
-    "description": "php 5556666",
+   "name": "nangongxixi/yu-comp",
+    "description": "8888999e upload",
     "type": "library",
-    "keywords": [
-        "php",
-        "xor"
-    ],
     "license": "MIT",
     "authors": [
         {
-            "name": "nangongxixi",
+            "name": "Liuyu",
             "email": "373966902@qq.com"
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "php":">=5.3"
     },
     "autoload": {
-        "psr-0": {
-            "XorEncryption\\": "src/"
+        "psr-4":{
+            "Dj\\":"src"
         }
     }
-} 
+}
+ 
